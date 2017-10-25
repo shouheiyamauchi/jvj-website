@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Padding = ({}) => (
+const Padding = ({  }) => (
   <div className="section" />
 );
 
